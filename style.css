@@ -1,0 +1,41 @@
+nav {
+    display:flex;
+    background-color:#353030;
+    height: 4 em;
+    width:100 vh;
+    align-items: center;
+    
+
+}
+.menu-items {
+   display: flex;
+   background-color: aquamarine;
+   list-style: none;
+   padding: 0;
+   top: 100px;
+   
+
+   
+    
+
+}
+a {
+    text-decoration: none;
+    padding-right: 40px;
+    color: #fff;
+
+}
+button {
+ right: 0;
+ height: 2em;
+ border: none;
+ color: #353030;
+ box-shadow: 5px 5px;
+ font-size: 15px;
+
+}
+li>a {
+    padding: 0;
+    margin-left: 20px;
+    margin-right: 20px;
+}
